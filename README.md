@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Estehsan</h1>
-<h3 align="center">I'm 24 years old 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨. I'm currently into Mobile aplication & server APIs Development 🕸️ 🤓.</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/7809332/134470049-bc63c580-d462-47a7-bae3-cb966df37fd3.gif" width="30px">, I'm  Estehsan</h1>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/7809332/134469878-e2327b6c-aebf-4cc9-81ea-b69bdf5ebd0c.gif" width="30px">I'm 24 years old 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨. I'm currently into Mobile aplication & server APIs Development 🕸️ 🤓.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estehsan&label=Profile%20views&color=0e75b6&style=flat" alt="estehsan" /> </p>
 
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estehsan&show_icons=true&locale=en" alt="estehsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estehsan&" alt="estehsan" /></p>
+
