@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/estehsaan" target="blank"><img src="https://img.shields.io/twitter/follow/estehsaan?logo=twitter&style=for-the-badge" alt="estehsaan" /></a> </p>
 
-- 🌱 I’m currently learning **AWS and GPT3**
-
 - 💬 Ask me about **React Native, NextJS**
 
 - 📫 How to reach me **estehsaan@gmail.com**
