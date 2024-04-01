@@ -1,15 +1,12 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/7809332/134470049-bc63c580-d462-47a7-bae3-cb966df37fd3.gif" width="30px">, I'm  Estehsan</h1>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/7809332/134469878-e2327b6c-aebf-4cc9-81ea-b69bdf5ebd0c.gif" width="30px">I'm 26 years old 🎓.I am a  software engineer with expertise in front-end development, web 🖥️ and mobile app development 💡. With over 6 years of experience in the industry, I have a passion for creating visually appealing and user-friendly applications. My skills in React,React Native, JavaScript, and Python have resulted in the successful development and launch of numerous apps, receiving high ratings from clients. In my free time, I enjoy learning about new technologies and expanding my knowledge in the field. You can find my projects and contributions on GitHub, where I am always open to feedback and collaboration. 🕸️ 🤓</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/7809332/134469878-e2327b6c-aebf-4cc9-81ea-b69bdf5ebd0c.gif" width="30px">I'm 26 years old 🎓.I am a  software engineer with expertise in front-end development, web 🖥️ and mobile app development 💡. With over 5 years of experience in the industry, I have a passion for creating visually appealing and user-friendly applications. My skills in React,React Native, JavaScript, and Python have resulted in the successful development and launch of numerous apps, receiving high ratings from clients. In my free time, I enjoy learning about new technologies and expanding my knowledge in the field. You can find my projects and contributions on GitHub, where I am always open to feedback and collaboration. 🕸️ 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estehsan&label=Profile%20views&color=0e75b6&style=flat" alt="estehsan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estehsan" alt="estehsan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/estehsaan" target="blank"><img src="https://img.shields.io/twitter/follow/estehsaan?logo=twitter&style=for-the-badge" alt="estehsaan" /></a> </p>
+</p>
 
 - 💬 Ask me about **React Native, NextJS**
 
-- 📫 How to reach me **estehsaan@gmail.com**
+- 📫 How to reach me **estehsaan@gmail.com** **www.estehsan.com**
 
 - ⚡ Fun fact **⚡ Fun fact: I love to do Photography,Videography and playing Video Games**
 
