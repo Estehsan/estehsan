@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estehsan&label=Profile%20views&color=0e75b6&style=flat" alt="estehsan" /> </p>
 </p>
 
-- 💬 Ask me about **React Native, NextJS**
+- 💬 Ask me about **React Native, NextJS, Backstage IO**
 
 - 📫 How to reach me **estehsaan@gmail.com** **www.estehsan.com**
 
