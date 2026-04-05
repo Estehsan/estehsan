@@ -23,6 +23,60 @@ I am a Software Engineer with over 5 years of experience in front-end, web, and 
 
 ---
 
+### 🔌 Open Source — Backstage Plugins
+
+I build and maintain open source plugins for [Backstage.io](https://backstage.io)
+<table>
+  <thead>
+    <tr>
+      <th>Plugin</th>
+      <th>Package</th>
+      <th>Version</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎯 <b>Onboarding</b></td>
+      <td>
+        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding">
+          <code>@estehsaan/backstage-plugin-onboarding</code>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding?style=flat&color=9BF0E1&label=" alt="npm" />
+      </td>
+      <td>Structured developer onboarding checklist — Day 1 to Month 1, with progress tracking, phase grouping, and team manager view.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding-backend">
+          <code>@estehsaan/backstage-plugin-onboarding-backend</code>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding-backend?style=flat&color=9BF0E1&label=" alt="npm" />
+      </td>
+      <td>Backend REST API + Knex database persistence for onboarding progress.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding-common">
+          <code>@estehsaan/backstage-plugin-onboarding-common</code>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding-common?style=flat&color=9BF0E1&label=" alt="npm" />
+      </td>
+      <td>Shared types, permissions, and constants.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **Languages:**  
@@ -71,12 +125,13 @@ I am a Software Engineer with over 5 years of experience in front-end, web, and 
 
 ### 🚀 Featured Projects
 
-- 🏡 **[MightyHomes](https://mightyhomes.com/)** - AI-powered home transformation.
-- 📱 **[SnabbPass](https://apps.apple.com/se/app/snabbpass/id6741228414?l=en-GB)** - Swedish Staffing app.
-- 🌮 **[Mestiza](https://mestizagbg.se/)** - Restaurant website.
-- 💼 **[Virtual Internship](https://virtualinternship.com/)** - Virtual internship platform.
-- 🤝 **[Rondevoo](https://youtu.be/Xub5fe-0IEc)** - Social networking platform.
-- 🛒 **[AsianMarket.one](https://asianmarket.one/)** - Online grocery store.
+- 🔌 **[backstage-plugin-onboarding](https://github.com/Estehsan/backstage-plugin-onboarding)** — Open source Backstage onboarding checklist plugin. *(New!)*
+- 🏡 **[MightyHomes](https://mightyhomes.com/)** — AI-powered home transformation.
+- 📱 **[SnabbPass](https://apps.apple.com/se/app/snabbpass/id6741228414?l=en-GB)** — Swedish staffing app.
+- 🌮 **[Mestiza](https://mestizagbg.se/)** — Restaurant website.
+- 💼 **[Virtual Internship](https://virtualinternship.com/)** — Virtual internship platform.
+- 🤝 **[Rondevoo](https://youtu.be/Xub5fe-0IEc)** — Social networking platform.
+- 🛒 **[AsianMarket.one](https://asianmarket.one/)** — Online grocery store.
 
 ---
 
