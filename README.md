@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Estehsan Tariq 👋</h1>
-  <h3>Software Engineer | M.Sc. Data Science | Stockholm, Sweden 🇸🇪</h3>
+  <h3>Software Engineer | Masters in Data Science | Stockholm, Sweden 🇸🇪</h3>
   <p>
     <a href="https://estehsan.com" target="_blank">estehsan.com</a> •
     <a href="mailto:estehsaan@gmail.com">estehsaan@gmail.com</a>
@@ -113,7 +113,7 @@ I build and maintain open source plugins for [Backstage.io](https://backstage.io
 
 ### 💼 Experience
 
-- **Software Engineer** @ [SAS - Scandinavian Airlines](https://www.flysas.com/) *(Sep 2023 - Present)*
+- **Software Engineer** @ [SAS - Scandinavian Airlines](https://www.flysas.com/) *(Sep 2023)*
   - Designing and scaling a Backstage-based Internal Developer Portal for 350+ engineers.
   - Leading GitHub platform governance across 1,000+ repositories.
 - **React Native Developer** @ DotCom Studio *(Feb 2022 - Jan 2023)*
