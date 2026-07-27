@@ -22,58 +22,14 @@ I am a Software Engineer with over 5 years of experience in front-end, web, and 
 - ⚡ Fun fact: **I love Photography, Videography, and playing Video Games!**
 
 ---
+### 🔌 Open Source Backstage Plugins
 
-### 🔌 Open Source — Backstage Plugins
+I build and maintain open-source Backstage plugins:
 
-I build and maintain open source plugins for [Backstage.io](https://backstage.io)
-<table>
-  <thead>
-    <tr>
-      <th>Plugin</th>
-      <th>Package</th>
-      <th>Version</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🎯 <b>Onboarding</b></td>
-      <td>
-        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding">
-          <code>@estehsaan/backstage-plugin-onboarding</code>
-        </a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding?style=flat&color=9BF0E1&label=" alt="npm" />
-      </td>
-      <td>Structured developer onboarding checklist — Day 1 to Month 1, with progress tracking, phase grouping, and team manager view.</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding-backend">
-          <code>@estehsaan/backstage-plugin-onboarding-backend</code>
-        </a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding-backend?style=flat&color=9BF0E1&label=" alt="npm" />
-      </td>
-      <td>Backend REST API + Knex database persistence for onboarding progress.</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <a href="https://www.npmjs.com/package/@estehsaan/backstage-plugin-onboarding-common">
-          <code>@estehsaan/backstage-plugin-onboarding-common</code>
-        </a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/npm/v/@estehsaan/backstage-plugin-onboarding-common?style=flat&color=9BF0E1&label=" alt="npm" />
-      </td>
-      <td>Shared types, permissions, and constants.</td>
-    </tr>
-  </tbody>
-</table>
+- [backstage-plugin-onboarding](https://github.com/Estehsan/backstage-plugin-onboarding)
+- [backstage-techdoc-editor](https://github.com/Estehsan/backstage-techdoc-editor)
+- [backstage-plugin-skill-bridge](https://github.com/Estehsan/backstage-plugin-skill-bridge/)
+
 
 ---
 
