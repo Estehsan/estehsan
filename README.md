@@ -93,7 +93,7 @@ I build and maintain open-source Backstage plugins:
 
 ### 🎓 Education & Certifications
 
-- **M.Sc. Data Science** - University of Skövde, Sweden *(2022 - Present)*
+- **M.Sc. Data Science** - University of Skövde, Sweden *(2023)*
 - **B.Sc. Computer Science** - Sir Syed University of Engineering and Technology, Pakistan *(2017 - 2021)*
 - **Certifications:** Microsoft Azure Fundamentals (AZ-900), React Native Advanced, Introduction to Cloud Computing.
 
